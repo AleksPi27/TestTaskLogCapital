@@ -1,0 +1,9 @@
+.DS_Store
+
+# Dependency directories
+/node_modules
+/docker-volumes
+
+# Optional npm cache directory
+.npm
+.idea
