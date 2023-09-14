@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./release",
+    "allowJs": true,
+    "target": "ES2022",
+    "sourceMap": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "removeComments": true,
+    "module": "CommonJS",
+    "esModuleInterop": true
+  },
+  "include": [
+    "./src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
